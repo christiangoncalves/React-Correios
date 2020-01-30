@@ -1,3 +1,2 @@
 node-tracking/node_modules/* linguist-vendored
 react-tracking/node_modules/* linguist-vendored
-#*.html linguist-detectable=false
